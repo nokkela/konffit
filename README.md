@@ -7,3 +7,8 @@ Simple repository for testing
 This is heading2
 
 Hello world
+
+	$ls -lah
+
+	$uname -a
+
